@@ -20,4 +20,4 @@
 ## 📫 Contacto
 
 - **Correo:** maticuervoc@gmail.com
-- **LinkedIn:** [Matias Cuervo](https://www.linkedin.com/in/matiascuervo/)
+- **LinkedIn:** [Matias Cuervo](https://www.linkedin.com/in/matias-tomas-cuervo-b37396303/)
