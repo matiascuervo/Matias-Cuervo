@@ -23,3 +23,14 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
 
 - **Correo:** maticuervoc@gmail.com
 - **LinkedIn:** [Matias Cuervo](https://www.linkedin.com/in/matias-tomas-cuervo-b37396303/)
+- 
+---
+
+- ## 🚀 Proyectos
+
+- ### Proyecto 1: [El rescate de la poly](https://github.com/matiascuervo/segundo-parcial-laboratorio-1-B)
+![Fotos del Juego](https://postlmg.cc/dLmJ459W)
+- **Descripción:** El juego es un Proyecto creado en mi primer cuatimestre en la facultad , utilizando Phyton y Pygames.
+- el juego aun esta incompleto.
+
+
