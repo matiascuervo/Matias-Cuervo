@@ -29,7 +29,7 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
 - ## 🚀 Proyectos
 
 - ### Proyecto 1: [El rescate de la poly](https://github.com/matiascuervo/segundo-parcial-laboratorio-1-B)
-![Fotos del Juego](https://postlmg.cc/dLmJ459W)
+![Fotos del Juego](https://postlmg.cc/nX2cc3js)
 - **Descripción:** El juego es un Proyecto creado en mi primer cuatimestre en la facultad , utilizando Phyton y Pygames.
 - el juego aun esta incompleto.
 
