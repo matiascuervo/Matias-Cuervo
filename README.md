@@ -23,7 +23,7 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
 
 - **Correo:** maticuervoc@gmail.com
 - **LinkedIn:** [Matias Cuervo](https://www.linkedin.com/in/matias-tomas-cuervo-b37396303/)
-- 
+
 ---
 
 - ## 🚀 Proyectos
