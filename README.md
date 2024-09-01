@@ -4,6 +4,8 @@
 
 ¡Hola! Soy Matias Cuervo, un apasionado de la programación actualmente estudiando en la UTN. Estoy en mi segundo año de la carrera y siempre busco aprender y mejorar mis habilidades en el desarrollo de software. Me encanta explorar nuevas tecnologías y aplicarlas en proyectos creativos.
 
+
+Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I am in my second year of my degree and I am always looking to learn and improve my skills in software development. I love exploring new technologies and applying them in creative projects.
 ---
 
 ## 🔧 Skills
