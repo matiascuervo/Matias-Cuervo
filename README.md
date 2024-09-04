@@ -33,5 +33,12 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
    [![red-juego3.png](https://i.postimg.cc/zX43DMH1/red-juego3.png)](https://postimg.cc/dLmJ459W)
 - **Descripción:** El juego es un Proyecto creado en mi primer cuatimestre en la facultad , utilizando Phyton y Pygames. / The game is a Project created in my first semester in college, using Python and Pygames.
 - el juego aun esta incompleto. / the game is still incomplete.
+### Proyecto 2: APP en .NET
+  # Fotos de la APP/ APP photos
+  [![git3.jpg](https://i.postimg.cc/VvKdv6mS/git3.jpg)](https://postimg.cc/8fr1nTFD)
+  --- 
+  [![git3.jpg](https://i.postimg.cc/VvKdv6mS/git3.jpg)](https://postimg.cc/8fr1nTFD)
 
+  --
+  [![volquetesgit2.jpg](https://i.postimg.cc/VLNJTjWX/volquetesgit2.jpg)](https://postimg.cc/z39DHHMf)
 
