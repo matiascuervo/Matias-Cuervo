@@ -37,8 +37,9 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
   # Fotos de la APP/ APP photos
   [![git3.jpg](https://i.postimg.cc/VvKdv6mS/git3.jpg)](https://postimg.cc/8fr1nTFD)
   --- 
-  [![git3.jpg](https://i.postimg.cc/VvKdv6mS/git3.jpg)](https://postimg.cc/8fr1nTFD)
+  [![volquetesgit.jpg](https://i.postimg.cc/2jGq2Hhz/volquetesgit.jpg)](https://postimg.cc/w3tTBQwP)
 
   --
   [![volquetesgit2.jpg](https://i.postimg.cc/VLNJTjWX/volquetesgit2.jpg)](https://postimg.cc/z39DHHMf)
 
+  **Descripción:** Esta aplicación, desarrollada en C# con .NET, fue creada durante mi segundo cuatrimestre en la facultad. El proyecto integra todos los temas cubiertos en el curso, incluyendo expresiones lambda, SQL, sobrecargas de métodos, generación de archivos y manejo de hilos. La aplicación está completamente funcional y representa un trabajo integral de lo aprendido durante este período académico.
