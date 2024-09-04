@@ -35,9 +35,9 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
 - el juego aun esta incompleto. / the game is still incomplete.
 ### Proyecto 2: APP en .NET
   # Fotos de la APP/ APP photos
+  [![volquetesgit.jpg](https://i.postimg.cc/2jGq2Hhz/volquetesgit.jpg)](https://postimg.cc/w3tTBQwP)
   [![volquetesgit2.jpg](https://i.postimg.cc/VLNJTjWX/volquetesgit2.jpg)](https://postimg.cc/z39DHHMf)
   
-  [![volquetesgit.jpg](https://i.postimg.cc/2jGq2Hhz/volquetesgit.jpg)](https://postimg.cc/w3tTBQwP)
 
   
   [![git3.jpg](https://i.postimg.cc/VvKdv6mS/git3.jpg)](https://postimg.cc/8fr1nTFD)
