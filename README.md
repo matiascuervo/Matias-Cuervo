@@ -16,7 +16,8 @@ Hello! I am Matias Cuervo, a programming enthusiast currently studying at UTN. I
 - **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 - **C#** ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
 - **SQL** ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=fff)
-
+- **Java** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+- **Linux** ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
 ---
 
 ## 📫 Contacto
